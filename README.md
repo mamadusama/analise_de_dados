@@ -5,7 +5,7 @@ Neste projeto, realizamos uma análise exploratória das vendas para entender o 
 # Pergunta 1: Qual cliente comprou mais vezes?
 Para identificar o cliente mais frequente, usamos o método .value_counts() no campo de email dos clientes, que nos permitiu contar o número de vezes que cada cliente apareceu no conjunto de dados de vendas. Em seguida, plotamos os cinco clientes mais frequentes em um gráfico, visualizando aqueles com o maior número de compras ao longo do período.
 
-![Gráfico de Vendas Mensais](./analize2.png)
+![Gráfico de Vendas Mensais](./analise2.png)
 
 
 
